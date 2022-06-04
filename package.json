@@ -1,0 +1,24 @@
+{
+  "name": "react-smart-tv",
+  "version": "1.0.0",
+  "description": "React Smart Tv",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidkern13/react-smart-tv.git"
+  },
+  "keywords": [
+    "react",
+    "smart",
+    "tv"
+  ],
+  "author": "David Kern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidkern13/react-smart-tv/issues"
+  },
+  "homepage": "https://github.com/davidkern13/react-smart-tv#readme"
+}
